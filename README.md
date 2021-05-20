@@ -48,3 +48,13 @@ Data Science Notes and exercises from IBM Data Science course.
 > Mining Data       
 > Evaluating Mining results
 
+> Deep Learning is a type of Machine Learning that simulates human decision-making using neural networks.    
+> Machine Learning has many applications, from recommender systems that provide relevant choices for customers on 
+> commercial websites, to detailed analysis of financial markets.
+
+> Data Science helps physicians provide the best treatment for their patients, and helps meteorologists predict the 
+> extent of local weather events, and can even help predict natural disasters like earthquakes and tornadoes.
+>
+> The purpose of the final deliverable of a Data Science project is to communicate new information and insights from 
+> the data analysis to key decision-makers.
+
